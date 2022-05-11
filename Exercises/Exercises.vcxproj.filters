@@ -44,9 +44,6 @@
     <ClInclude Include="Company.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Department.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="tuples.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>

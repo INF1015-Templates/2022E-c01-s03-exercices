@@ -154,7 +154,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Company.hpp" />
-    <ClInclude Include="Department.hpp" />
     <ClInclude Include="Employee.hpp" />
     <ClInclude Include="tuples.hpp" />
   </ItemGroup>
